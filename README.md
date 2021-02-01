@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/hossensyedriadh">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=hossensyedriadh" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/12860523/syed">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12860523?color=blue&label=reputation&logo=stackoverflow">
