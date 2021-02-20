@@ -4,9 +4,9 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossensyedriadh&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hossensyedriadh&show_icons=true&theme=tokyonight)
 
-![hossensyedriadh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hossensyedriadh&v=2&layout=compact)
+![hossensyedriadh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hossensyedriadh&v=2&layout=compact&theme=merko)
 
 <br>
 <br>
