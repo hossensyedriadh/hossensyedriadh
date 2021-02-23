@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://github.com/hossensyedriadh">
-    <img src="https://github-readme-stats.vercel.app/api?username=hossensyedriadh&count_private=true&show_icons=true" alt="hossensyedriadh" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hossensyedriadh&count_private=true&custom_title=Syed%27s%20GitHub%20Stats&show_icons=true" alt="hossensyedriadh" align="left" />
   </a>
 </div>
 
