@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hossensyedriadh&show_icons=true&theme=tokyonight&layout=compact)
 
-![hossensyedriadh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hossensyedriadh&v=2&layout=compact&theme=merko)
+![hossensyedriadh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@hossensyedriadh&v=2&layout=compact&custom_title=Syed%27s%20Wakatime%20Stats)
 
 <br>
 <br>
