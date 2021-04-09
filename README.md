@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="left" id="macropower-title">:wave: Hi! I'm Syed Riadh Hossen</h1>
-<h3 align="left">I am a Java Developer, working on Web Applications, REST APIs, Microservices</h3>
+<h3 align="left">I am a Java Developer, working on Web Applications, REST APIs</h3>
 
 <p align="left">
   <a href="https://github.com/hossensyedriadh">
