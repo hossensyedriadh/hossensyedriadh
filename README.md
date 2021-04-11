@@ -40,31 +40,31 @@
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/java.png" width="62" alt="Java" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/java.png" width="62" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/spring.png" width="62" alt="Spring" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/spring.png" width="62" alt="Spring" />
       </a>
       <br>Spring
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/spring-boot.png" width="62" alt="Spring Boot" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/spring-boot.png" width="62" alt="Spring Boot" />
       </a>
       <br>Spring Boot
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/react.png" width="62" alt="React.js" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/react.png" width="62" alt="React.js" />
       </a>
       <br>React.js
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/maven.png" width="62" alt="Maven" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/maven.png" width="62" alt="Maven" />
       </a>
       <br>Maven
     </td>
@@ -72,19 +72,19 @@
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/mysql.png" width="62" alt="MySQL" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/mysql.png" width="62" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/mssql.png" width="62" alt="MsSQL" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/mssql.png" width="62" alt="MsSQL" />
       </a>
       <br>Microsoft SQL Server
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/postgresql.png" width="62" alt="postgres" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/postgresql.png" width="62" alt="postgres" />
       </a>
       <br>PostgreSQL
     </td>
@@ -93,25 +93,25 @@
   <tr>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/html5.png" width="62" alt="HTML" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/html5.png" width="62" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/css3.png" width="62" alt="CSS" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/css3.png" width="62" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/bootstrap.png" width="62" alt="BootStrap" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/bootstrap.png" width="62" alt="BootStrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/Web/blob/master/Portfolio/Images/javascript.png" width="62" alt="JavaScript" />
+        <img src="https://github.com/hossensyedriadh/portfolio/blob/master/Images/javascript.png" width="62" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
