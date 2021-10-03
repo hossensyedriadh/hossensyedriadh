@@ -15,6 +15,7 @@
 <h3 align="left">I am a Java Developer, working on Web Applications, REST APIs</h3>
 
 <p align="left">
+  <a href="https://wakatime.com/@e2b59800-befa-4fbb-b409-570cc377f0eb"><img src="https://wakatime.com/badge/user/e2b59800-befa-4fbb-b409-570cc377f0eb.svg" alt="Total time coded since Feb 1 2021" /></a>
   <a href="https://github.com/hossensyedriadh">
     <img src="https://komarev.com/ghpvc/?username=hossensyedriadh" alt="page views" />
   </a>
