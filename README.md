@@ -15,15 +15,17 @@
 <h3 align="left">I am a Java Developer, working on Web Applications, REST APIs</h3>
 
 <p align="left">
-  <a href="https://wakatime.com/@e2b59800-befa-4fbb-b409-570cc377f0eb"><img src="https://wakatime.com/badge/user/e2b59800-befa-4fbb-b409-570cc377f0eb.svg" alt="Total time coded since Feb 1 2021" /></a>
-  <a href="https://github.com/hossensyedriadh">
+  <a href="https://wakatime.com/@e2b59800-befa-4fbb-b409-570cc377f0eb" target="_blank">
+    <img src="https://wakatime.com/badge/user/e2b59800-befa-4fbb-b409-570cc377f0eb.svg" alt="Total time coded since Feb 1 2021" />
+  </a>
+  <a href="https://github.com/hossensyedriadh" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=hossensyedriadh" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/12860523/syed">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12860523?color=blue&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/12860523/syed" target="_blank">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/12860523?color=blue&label=reputation&logo=stackoverflow" />
   </a>
-  <a href="https://github.com/hossensyedriadh?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hossensyedriadh?color=blue&logo=github">
+  <a href="https://github.com/hossensyedriadh?tab=followers" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hossensyedriadh?color=blue&logo=github" />
   </a>
 </p>
 
