@@ -110,17 +110,17 @@
       </a>
       <br>Bootstrap
     </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/semantic_ui.png" width="62" alt="SemanticUI" />
+      </a>
+      <br>Semantic-UI
+    </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
         <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/javascript.png" width="62" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/semantic_ui.png" width="62" alt="semantic_ui" />
-      </a>
-      <br>Semantic-UI
     </td>
   </tr>
   <tr>
