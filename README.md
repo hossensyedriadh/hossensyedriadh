@@ -15,7 +15,7 @@
 <br>
 
 <h1 align="left" id="macropower-title">:wave: Hi! I'm Syed Riadh Hossen</h1>
-<h3 align="left">I am a Java Developer, working on Web Applications, REST APIs</h3>
+<h3 align="left">I am a Java Developer, working on Web Applications, RESTful Web Services</h3>
 
 <p align="left">
   <a href="https://wakatime.com/@e2b59800-befa-4fbb-b409-570cc377f0eb" target="_blank">
@@ -36,6 +36,7 @@
 - :speech_balloon: &nbsp;I'm interested in **Web Applications**, **RESTful Services**, **Microservices**
 - :mailbox: &nbsp;Buzz on my <a href="https://www.facebook.com/riadhhossen.rh">**Facebook**</a>
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/syedriadhhossen/">**LinkedIn**</a>
+- :email: &nbsp;<a href="mailto:hossensyedriadh@gmail.com?subject=Query from GitHub">Email me</a>
 
 <hr>
 
