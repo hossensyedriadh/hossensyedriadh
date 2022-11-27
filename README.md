@@ -49,27 +49,21 @@
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/spring.png" width="62" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
         <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/spring-boot.png" width="62" alt="Spring Boot" />
       </a>
       <br>Spring Boot
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/react.png" width="62" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
         <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/maven.png" width="62" alt="Maven" />
       </a>
       <br>Maven
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/react.png" width="62" alt="React.js" />
+      </a>
+      <br>React.js
     </td>
   </tr>
   <tr>
