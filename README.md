@@ -24,6 +24,9 @@
   <a href="https://github.com/hossensyedriadh" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=hossensyedriadh" alt="page views" />
   </a>
+  <a href="https://reddit.com/u/riadhhossen">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/riadhhossen?label=karma&logo=reddit">
+  </a>
   <a href="https://github.com/hossensyedriadh?tab=followers" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hossensyedriadh?color=blue&logo=github" />
   </a>
