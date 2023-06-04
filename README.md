@@ -2,9 +2,9 @@
   <a href="https://github.com/hossensyedriadh">
     <img src="https://github-readme-stats.vercel.app/api?username=hossensyedriadh&count_private=true&custom_title=Syed%27s%20GitHub%20Stats&show_icons=true" alt="hossensyedriadh" align="left" />
   </a>
-  <a href="https://wakatime.com/@hossensyedriadh">
+  <!-- a href="https://wakatime.com/@hossensyedriadh">
     <img src="https://wakatime.com/share/@hossensyedriadh/114d6310-a195-4b97-91a9-e4dfc9af8407.png" alt="wakatime_hossensyedriadh" />
-  </a>
+  </a -->
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hossensyedriadh&layout=compact)
