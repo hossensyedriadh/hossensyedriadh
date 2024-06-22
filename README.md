@@ -15,7 +15,7 @@
 <br>
 
 <h1 align="left" id="macropower-title">:wave: Hi! I'm Syed Riadh Hossen</h1>
-<h3 align="left">I am a Java Developer, working on Web Applications, RESTful Web Services</h3>
+<h3 align="left">I am a Software Engineer focusing on the backend of web applications</h3>
 
 <p align="left">
   <a href="https://wakatime.com/@e2b59800-befa-4fbb-b409-570cc377f0eb" target="_blank">
@@ -32,6 +32,11 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="http://www.nerdtests.com/ft_nt2.php">
+    <img src="http://www.nerdtests.com/images/badge/nt2/abf9bb296a2e5117.png" alt="NerdTests.com says I'm a Kinda Dorky Nerd.  Click here to take the Nerd Test, get geeky images and jokes, and write on the nerd forum!">
+    </a>
+</p>
 
 - :speech_balloon: &nbsp;I'm interested in **Web Applications**, **RESTful Services**, **Microservices**
 - :mailbox: &nbsp;Buzz on my <a href="https://www.facebook.com/riadhhossen.rh">**Facebook**</a>
