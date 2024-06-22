@@ -38,7 +38,7 @@
     </a>
 </p>
 
-- :speech_balloon: &nbsp;I'm interested in **Web Applications**, **RESTful Services**, **Microservices**
+- :speech_balloon: &nbsp;I'm interested in **Web Applications**, **Microservices**
 - :mailbox: &nbsp;Buzz on my <a href="https://www.facebook.com/riadhhossen.rh">**Facebook**</a>
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/syedriadhhossen/">**LinkedIn**</a>
 - :email: &nbsp;<a href="mailto:hossensyedriadh@gmail.com?subject=Query from GitHub">Email me</a>
