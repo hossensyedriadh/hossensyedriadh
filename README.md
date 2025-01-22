@@ -135,13 +135,3 @@
   </tr>
 </table>
 <hr>
-
-<h4>Accomplishments</h4>
-<div>
-  <a href="https://www.coursera.org/account/accomplishments/verify/G9DKJPBXHWUD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~G9DKJPBXHWUD/CERTIFICATE_LANDING_PAGE~G9DKJPBXHWUD.jpeg" width="200" alt="google_cloud">
-  </a>
-  <a href="https://coursera.org/share/9176261a834db33060ce0042d984be88" target="_blank">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7VPY8DT6AQK4/CERTIFICATE_LANDING_PAGE~7VPY8DT6AQK4.jpeg" width="200" alt="amazon_s3">
-  </a>
-</div>
