@@ -54,11 +54,11 @@
       </a>
       <br>Spring Boot
     </td>
-    <td align="center" width="100">
+    <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/maven.png" width="62" alt="Maven" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/javascript.png" width="62" alt="JavaScript" />
       </a>
-      <br>Maven
+      <br>JavaScript
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
@@ -76,55 +76,61 @@
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/postgresql.png" width="62" alt="postgres" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/redis.png" width="62" alt="Redis" />
       </a>
-      <br>PostgreSQL
+      <br>Redis
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/mongo.png" width="62" alt="mongodb" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/mongo.png" width="62" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/kafka.png" width="50" alt="Kafka" />
+      </a>
+      <br>Apache Kafka
+    </td>
   </tr>
   <tr>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/html5.png" width="62" alt="HTML" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/jenkins.png" width="62" alt="Jenkins" />
       </a>
-      <br>HTML
+      <br>Jenkins
     </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/css3.png" width="62" alt="CSS" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/docker.png" width="62" alt="Docker" />
       </a>
-      <br>CSS
+      <br>Docker
     </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/bootstrap.png" width="62" alt="BootStrap" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/nginx.png" width="62" alt="Nginx" />
       </a>
-      <br>Bootstrap
+      <br>Nginx
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/semantic_ui.png" width="62" alt="SemanticUI" />
-      </a>
-      <br>Semantic-UI
-    </td>
-    <td align="center"  width="100">
-      <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/javascript.png" width="62" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/git.png" width="62" alt="git" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/git.png" width="62" alt="Git" />
       </a>
       <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/grafana.png" width="62" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/linux.png" width="62" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
   </tr>
 </table>
