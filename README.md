@@ -24,12 +24,6 @@
   <a href="https://github.com/hossensyedriadh" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=hossensyedriadh" alt="page views" />
   </a>
-  <a href="https://reddit.com/u/riadhhossen">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/riadhhossen?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/hossensyedriadh?tab=followers" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hossensyedriadh?color=blue&logo=github" />
-  </a>
 </p>
 
 <p align="left">
@@ -39,9 +33,8 @@
 </p>
 
 - :speech_balloon: &nbsp;I'm interested in **Web Applications**, **Microservices**
-- :mailbox: &nbsp;Buzz on my <a href="https://www.facebook.com/riadhhossen.rh">**Facebook**</a>
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/syedriadhhossen/">**LinkedIn**</a>
-- :email: &nbsp;<a href="mailto:hossensyedriadh@gmail.com?subject=Query from GitHub">Email me</a>
+- :email: &nbsp;<a href="mailto:riadhhossen@gmail.com?subject=Query from GitHub">Email me</a>
 
 <hr>
 
