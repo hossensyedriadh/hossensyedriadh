@@ -38,7 +38,7 @@
 
 <hr>
 
->Tools, languages, and other things that I work with
+>Languages, tools that I work with
 
 <table>
   <tr>
