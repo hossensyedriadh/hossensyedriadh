@@ -88,7 +88,7 @@
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/kafka.png" width="50" alt="Kafka" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/kafka.png" width="40" alt="Kafka" />
       </a>
       <br>Apache Kafka
     </td>
