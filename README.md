@@ -66,6 +66,12 @@
       </a>
       <br>React.js
     </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/tailwind.png" width="62" alt="Tailwindcss" />
+      </a>
+      <br>Tailwind CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
