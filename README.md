@@ -76,6 +76,12 @@
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/pgsql.png" width="62" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
         <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/redis.png" width="62" alt="Redis" />
       </a>
       <br>Redis
@@ -96,15 +102,15 @@
   <tr>
     <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/jenkins.png" width="62" alt="Jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center"  width="100">
-      <a href="#macropower-tech">
         <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/docker.png" width="62" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+    <td align="center"  width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/k8s.png" width="62" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
     </td>
     <td align="center"  width="100">
       <a href="#macropower-tech">
@@ -112,11 +118,11 @@
       </a>
       <br>Nginx
     </td>
-    <td align="center" width="100">
+    <td align="center"  width="100">
       <a href="#macropower-tech">
-        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/git.png" width="62" alt="Git" />
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/jenkins.png" width="62" alt="Jenkins" />
       </a>
-      <br>Git
+      <br>Jenkins
     </td>
   </tr>
   <tr>
@@ -128,9 +134,21 @@
     </td>
     <td align="center" width="100">
       <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/prometheus.png" width="62" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
         <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/linux.png" width="62" alt="Linux" />
       </a>
       <br>Linux
+    </td>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://github.com/hossensyedriadh/hossensyedriadh/blob/main/images/git.png" width="62" alt="Git" />
+      </a>
+      <br>Git
     </td>
   </tr>
 </table>
